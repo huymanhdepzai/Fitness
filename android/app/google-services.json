@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "432562946797",
+    "firebase_url": "https://fitness-4dd31-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fitness-4dd31",
+    "storage_bucket": "fitness-4dd31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432562946797:android:3c4e75cbfad5d5a30282e4",
+        "android_client_info": {
+          "package_name": "com.example.fitness_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432562946797-ju1hkbf7ntfp353rf98fglhfu49c5fhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitness_flutter",
+            "certificate_hash": "60dbce821c5e0e3b5865f4ddf3147f242f8a1a7a"
+          }
+        },
+        {
+          "client_id": "432562946797-fn46mijpn5v2aa537gk5kv732irt82qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_C0P53bfaYfYfDhIND2KmwOkzY93lWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432562946797-fn46mijpn5v2aa537gk5kv732irt82qa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432562946797-14vreokneaj1cnavlnj1b4uuj1la39a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hypeteq.fitnessapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432562946797:android:5b48505ec77b3a4f0282e4",
+        "android_client_info": {
+          "package_name": "com.hypeteq.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432562946797-fn46mijpn5v2aa537gk5kv732irt82qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_C0P53bfaYfYfDhIND2KmwOkzY93lWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432562946797-fn46mijpn5v2aa537gk5kv732irt82qa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432562946797-14vreokneaj1cnavlnj1b4uuj1la39a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hypeteq.fitnessapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
